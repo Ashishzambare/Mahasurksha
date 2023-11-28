@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308343629148",
+    "project_id": "mahasuraksha-c0911",
+    "storage_bucket": "mahasuraksha-c0911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308343629148:android:a620cf3a9811f68d8f0d99",
+        "android_client_info": {
+          "package_name": "com.example.mahasuraksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308343629148-re0ls8m501o7ftgkgknqu8bokvs60gm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEGXn6FzF-dZqSSIM-5J7JDUKXEAZcYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308343629148-re0ls8m501o7ftgkgknqu8bokvs60gm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
